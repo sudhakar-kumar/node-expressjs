@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Sample usage of express framework",
+  "main": "startExp.js",
+  "scripts": {
+    "test": "nodemon formValidation.js"
+  },
+  "author": "Sudhakar Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "mongoose": "^5.1.1",
+    "nodemon": "^1.17.5",
+    "twig": "^1.11.0"
+  }
+}
